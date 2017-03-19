@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1487903985 source:/home/ashish/task2/main.cpp
+	<iostream>
+	"base.h"
+
+1488287950 /home/ashish/task2/base.h
+	"intco1.h"
+	"numSys.h"
+	<vector>
+	<string>
+	<algorithm>
+
+1487903841 source:/home/ashish/task2/src/base.cpp
+	"base.h"
+	<iostream>
+
+1487903690 /home/ashish/task2/include/base.h
+	<iostream>
+
+1488288846 source:/home/ashish/task2/base.cpp
+	<iostream>
+	"base.h"
+
+1487940073 source:/home/ashish/task2/calculate.cpp
+	<iostream>
+	"calculate.h"
+
+1487940062 /home/ashish/task2/calculate.h
+	"intco.h"
+
+1487922147 source:/home/ashish/task2/intco.cpp
+	"intco.h"
+
+1487922147 /home/ashish/task2/intco.h
+	<string>
+	<iostream>
+
+1487924913 source:/home/ashish/task2/intco1.cpp
+	"intco1.h"
+	<iostream>
+	<iomanip>
+	<bitset>
+
+1487936157 /home/ashish/task2/intco1.h
+	<string>
+	"intco.h"
+
+1488087961 source:/home/ashish/task2/numSys.cpp
+	"numSys.h"
+
+1488087961 /home/ashish/task2/numSys.h
+	<string>
+	"intco1.h"
+	"calculate.h"
+
